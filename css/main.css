@@ -1,0 +1,113 @@
+ul{
+    list-style-type: none;
+margin: -8px;
+    padding: 0px;
+    
+overflow: hidden;
+background-color: black;
+
+}
+li a{
+    text-decoration: none;
+color: white;
+padding: 0px 10px 0px 10px;
+margin: 0px 20px 0px 20px;
+font-size: 19px;
+
+}
+li{
+    display: inline;
+float: left;
+padding: 8px;
+}
+.search{
+    float: right;
+padding: 8px 77px 8px 0px;
+margin: 0px 0px 0px 0px;
+}
+input{
+    width: 240px;
+}
+body{
+    background-image:url("../img/pic1.jpg");
+    background-repeat: no-repeat;
+}
+li a:hover{
+    background-color:whitesmoke;;
+    border-radius: 3px;
+    color: black;
+}
+.content{
+    float: right;
+padding: 121px 0px 185px 0px;
+margin: 109px 0px 0px 0px;
+color: white;
+}
+.content h1{
+font-size: 60px;
+}
+.content h4{
+font-size: 26px;
+}
+.image{
+    display: inline;
+}
+h1{
+    font-size: 52px;
+}
+
+#about{
+float: right;
+margin: -20px 6px 0px 0px;
+}    
+#text{
+float: left;
+margin: 0px 224px 151px 20px;
+font-size: 17px;
+text-align: left;
+}  
+.button{
+border-radius: 5px;
+}
+.footer{
+background-color: grey;
+text-align: center;
+overflow: hidden;
+margin: -8px;
+height:9vh
+}
+.form {
+border-radius: 10px;
+
+}
+
+.field {
+margin-left: 305px;
+
+margin-bottom: 14px;
+padding-left: 110px;
+padding-right: 110px;
+}
+
+#table {
+
+border: 5px solid rgb(13, 13, 13);
+border-radius: 15px;
+margin: 40px 0px 10px 0px;
+padding: 0px 251px 0px 0px;
+background-color: white;
+}
+
+.first {
+padding: 30px 0px 30px 0px;
+
+
+}
+#gender{
+display: inline;
+}
+
+
+.form input {
+border-radius: 5px;
+}

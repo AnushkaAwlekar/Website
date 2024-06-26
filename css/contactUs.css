@@ -1,0 +1,92 @@
+.form {
+    border-radius: 10px;
+
+}
+
+.field {
+    margin-left: 305px;
+    
+    margin-bottom: 14px;
+    padding-left: 110px;
+    padding-right: 110px;
+}
+
+table {
+
+    border: 5px solid rgb(13, 13, 13);
+    border-radius: 15px;
+    margin: 80px 0px 0px 0px;
+    padding: 0px 251px 0px 0px;
+    background-color: white;
+}
+
+.first {
+    padding: 30px 0px 30px 0px;
+
+
+}
+#gender{
+    display: inline;
+}
+
+
+.form input {
+    border-radius: 5px;
+}
+
+/*  *******************************************************************************************************************     */
+/* navigation bar*/
+
+        ul{
+            list-style-type: none;
+    margin: -8px;
+            padding: 0px;
+            
+    overflow: hidden;
+    background-color: black;
+
+        }
+        li a{
+            text-decoration: none;
+    color: white;
+    padding: 0px 10px 0px 10px;
+    margin: 0px 20px 0px 20px;
+    font-size: 19px;
+
+        }
+        li{
+            display: inline;
+    float: left;
+    padding: 8px;
+        }
+        .search{
+            float: right;
+    padding: 8px 77px 8px 0px;
+    margin: 0px 0px 0px 0px;
+        }
+        input{
+            width: 240px;
+        }
+        body{
+            background-image:url("../img/pic1.jpg");
+        }
+        li a:hover{
+            background-color:whitesmoke;;
+            border-radius: 3px;
+            color: black;
+        }
+        .content{
+            float: right;
+    padding: 121px 2px 2px 2px;
+    margin: 108px 0px 1px 1px;
+    color: white;
+}
+.content h1{
+    font-size: 60px;
+}
+.content h4{
+    font-size: 26px;
+}
+.button{
+    border-radius: 5px;
+}

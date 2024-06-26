@@ -1,0 +1,26 @@
+h1{
+        
+    font-size: 55px;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+    
+    
+ }
+ p{
+    font-size: 45px;
+    padding: 2px 2px 2px 2px;
+    margin: 2px 2px 2px 2px;
+ }
+
+ .box{
+    background-color: white;
+    text-align: center;
+    border: 23px;
+    padding: 50px 2px 50px 2px;
+    margin:180px 367px ;
+    
+ }
+ body{
+   background-image:url("../img/pic1.jpg");
+    background-repeat: no-repeat;
+}
